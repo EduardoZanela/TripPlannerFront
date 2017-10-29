@@ -1,0 +1,11 @@
+{
+  "/api": {
+    "target": "http://localhost:9000",
+    "secure": false
+  },
+
+  "/maps/api": {
+    "target": "https://maps.googleapis.com",
+    "secure": false
+  }
+}
